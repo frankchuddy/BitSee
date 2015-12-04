@@ -1,5 +1,5 @@
 ## BitSee
-### _Version 0.1.1_
+_`Version 0.1.1`_
 
 #### Description
 A simple OSX app to check the bitcoin balance and history for any Bitcoin Wallet address.
