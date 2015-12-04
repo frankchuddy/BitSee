@@ -1,4 +1,4 @@
-# BitBalance
+# BitSee
 ### _Version 0.1.1_
 Check the bitcoin balance and history for any Bitcoin Wallet address.
 
