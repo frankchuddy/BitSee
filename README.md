@@ -1,4 +1,4 @@
-## BitSee
+## ɃitSee
 _`Version 0.1.1`_
 
 #### Description
@@ -6,7 +6,7 @@ A simple OSX app to check the bitcoin balance and history for any Bitcoin Wallet
 The history includes each transaction hash, the relay ip address of the transaction, the date time of each, as well as the current bitcoin wallet balance.
 
 #### Downloads
-Latest Version 0.1.1 Alpha OSX app: [BitBalance.app.zip](https://github.com/jamesacampbell/BitSee/files/51622/BitBalance.app.zip)
+ɃitSee Latest Version 0.1.1 Alpha OSX app: [BitBalance.app.zip](https://github.com/jamesacampbell/BitSee/files/51622/BitBalance.app.zip)
 
 #### Language
 
