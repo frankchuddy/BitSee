@@ -14,18 +14,20 @@ Written in Python 3.
 
 #### Requirements
 
-`blockchain`, which can be installed like `pip3 install blockchain`.
+`blockchain`, which can be installed like `pip3 install blockchain`.   
 `py2app`, which can be installed and working on El Capitan even via `pip install -U git+https://github.com/metachris/py2app.git@master`.
 
-Either build your own by cloning to a folder and running:
+Either download the [latest version](https://github.com/jamesacampbell/BitSee/latest.zip) or build your own by cloning to a folder and running:
 ```
 $ cd BitSee
 $ python3 setup.py py2app
 $ cd dist
 $ open BitSee.app
 ```
-
-Or, just download the [latest version](https://github.com/jamesacampbell/BitSee/latest.zip).
+and optionally:
+```
+$ cp BitSee.app ~/Applications/
+```
 
 Example of how it works. You simply paste in the wallet and it shows all transactions, hash, ip address, and date of transaction as well as the current balance of the wallet.
 
