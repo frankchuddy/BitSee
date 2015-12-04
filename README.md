@@ -33,5 +33,9 @@ Example of how it works. You simply paste in the wallet and it shows all transac
 
 ![bitsee](https://cloud.githubusercontent.com/assets/616585/11581300/7146f054-9a0e-11e5-81b2-f791aa8ee37d.gif)
 
-Enjoy and please let me know how you like it. Feel free to redistribute but keep this ReadMe intact.
+Enjoy and please let me know how you like it. Feel free to redistribute but keep this ReadMe intact.   
 Made in DC by [James Campbell](https://www.jamescampbell.us).
+
+Feel free to fork it and submit pull requests to help improve on this idea.
+
+Thanks.
