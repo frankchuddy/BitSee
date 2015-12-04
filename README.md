@@ -11,4 +11,4 @@ Or, just download the [latest version](https://github.com/jamesacampbell/BitBala
 
 Example of how it works. You simply paste in the wallet and it shows all transactions, hash, ip address, and date of transaction as well as the current balance of the wallet.
 
-<img src="http://imgur.com/7P6YmnQ" />
+![ScreenShot](http://i.imgur.com/7P6YmnQ.gifv)
