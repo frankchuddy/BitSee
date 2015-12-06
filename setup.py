@@ -8,7 +8,7 @@ Usage:
 from setuptools import setup
 
 APP = ['bitcoin-wallet.py']
-APP_NAME = "BitBalance"
+APP_NAME = "BitSee"
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
